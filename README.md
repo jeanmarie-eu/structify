@@ -6,11 +6,11 @@ Structify makes easy the manipulation of large space-time datasets.
 
 The package focuses on providing simple and efficient ways to manipulate large space-time datasets.
 
-i- it reduces the problem of memory limit by using data container.
+1. it reduces the problem of memory limit by using data container.
 
-ii- Spatial and temporal information and values are inter-connected for an easier exploitation.
+2. Spatial and temporal information and values are inter-connected for an easier exploitation.
 
-iii- The data container can be exploited by any language using the hdf5 protocol.
+3. The data container can be exploited by any language using the hdf5 protocol.
 
 ## Installation
 
