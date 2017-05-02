@@ -1,0 +1,22 @@
+Package: structify
+Type: Package
+Version: 0.0.1
+Authors@R: person("Jean-Marie", "Lepioufle", , "jm@nexmodeling.com", c("aut","cre"),
+           person("nexModeling", role = "cph"))
+Title: structify
+Description: Manipulate easily large space-time datasets.
+  The package focuses on providing simple and efficient ways to manipulate large space-time datasets.
+  Reduce the problem of memory limit by using data container.
+Depends:
+    R (>= 3.2.5)
+Imports:
+   h5,
+   timeManip,
+   spatialManip
+Remotes:
+    jeanmarielepioufle/timeManip,
+    jeanmarielepioufle/spatialManip,
+License: GPL-3
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 5.0.1
