@@ -4,4 +4,4 @@ language: R
 sudo: false
 cache: packages
 before_install:
-  - sudo apt-get install libhdf5-dev --enable-cxx=yes
+  - sudo apt-get install libhdf5-dev
