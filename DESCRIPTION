@@ -1,8 +1,7 @@
 Package: structify
 Type: Package
 Version: 0.0.1
-Authors@R: person("Jean-Marie", "Lepioufle", , "jm@nexmodeling.com", c("aut","cre"),
-           person("nexModeling", role = "cph"))
+Authors@R: c(person("Jean-Marie", "Lepioufle", , "me@jeanmarie.eu", c("aut","cre")))
 Title: structify
 Description: Create and manipulate easily large space-time dataset.
   The package focuses on providing simple and efficient ways to create and manipulate large space-time datasets.
@@ -14,8 +13,8 @@ Imports:
    timeManip,
    spatialManip
 Remotes:
-    jeanmarielepioufle/timeManip,
-    jeanmarielepioufle/spatialManip,
+    jeanmarie-eu/timeManip,
+    jeanmarie-eu/spatialManip,
 License: GPL-3
 Encoding: UTF-8
 LazyData: false
